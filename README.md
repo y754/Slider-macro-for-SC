@@ -1,5 +1,5 @@
 # Slider-macro-for-SC
-A custom macro for SugarCube.
+A custom macro for SugarCube: sliders to set variables.
 Copy + paste the .css and .js files into your Story Stylesheet and Story Javascript, respectively.
 To use, apply this syntax:
 
