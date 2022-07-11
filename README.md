@@ -12,3 +12,5 @@ Examples:
   <<slider "age" 18 40 "Age">><<\/slider>>
 
   <<slider "reckless" 0 100 false>><<\/slider>>
+
+Edit the appearance of the sliders with the `input[type="range"]` rule.
