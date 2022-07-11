@@ -13,4 +13,4 @@ Examples:
 
 ```<<slider "reckless" 0 100 false>><</slider>>```
 
-Edit the appearance of the sliders with the `input[type="range"]` rule.
+Edit the appearance of the sliders with the `input[type="range"]` rule in your css.
