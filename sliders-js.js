@@ -40,7 +40,7 @@ Macro.add('slider', {
 			})
 			.appendTo($container);
 			$range.on('input change', function() {
-				State.setVar($var, this.value);
+				State.setVar($var, +this.value);
 				$display.html(label + this.value);
 		})
 	}
